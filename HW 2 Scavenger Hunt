@@ -1,0 +1,15 @@
+HW2 Scavenger Hunt
+masropian@geneshark:~/scavenger-hunt$ cd clues
+masropian@geneshark:~/scavenger-hunt/clues$ find . -type f ! -name "gitignore" -exec grep -il "clue" {} +
+CD CLUES:
+./51751/clue
+./47932/clue
+./06329/clue
+./07603/clue
+./09495/clue
+./12338/clue
+./12345/clue
+./19773/clue
+./70240/clue
+./76388/clue
+./85320/clue
